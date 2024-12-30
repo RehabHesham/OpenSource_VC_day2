@@ -4,6 +4,11 @@ nav{
     padding: 10px;
 }
 
+#slider{
+    width: 100%;
+    height: 500px;
+}
+
 nav ul{
     list-style-type: none;
     margin: 0;
