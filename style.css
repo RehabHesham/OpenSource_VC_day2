@@ -3,3 +3,8 @@ nav{
     color: white;
     padding: 10px;
 }
+
+#slider{
+    width: 100%;
+    height: 500px;
+}
